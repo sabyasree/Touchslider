@@ -7,7 +7,7 @@ Touchslider
 touchslider external events handle
 
 
-touchSlider — is a free CSS accelerated jQuery plugin optimized for desktop and mobile browsers. It can be used for sliding images and content. Features are listed below:
+touchSlider — is a free CSS accelerated jQuery plugin optimized for desktop and mobile browsers. It can be used for sliding images and content.
 
 Include the jquery and touchslider scripts to your <head> tag:
 
